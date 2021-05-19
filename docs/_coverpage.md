@@ -11,4 +11,4 @@
 > Stay hungry Stay foolish
 
 [GitHub](https://github.com/DaddyXjy/english_learn_club/)
-[开始学习](#home)
+[开始学习](/README.md)
